@@ -207,7 +207,8 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 0%;
+      border-radius: 0 !important;
+      width: auto !important;
     }
 
       .image.avatar:before {
@@ -215,12 +216,11 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 0%;
-        width: 45%;
-        padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+        border-radius: 0 !important;
+        width: 160px !important;
+        height: auto !important;
+        padding: 0 !important;
+        object-fit: cover;
       }
 
     #header .image.avatar {
