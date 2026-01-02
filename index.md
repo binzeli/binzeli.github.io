@@ -24,4 +24,3 @@ Keywords: Multi-agent systems, social norms, AI alignment, cooperation, computat
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
