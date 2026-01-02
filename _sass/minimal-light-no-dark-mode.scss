@@ -160,7 +160,8 @@ papertitle {
     }
 
     .image.avatar {
-      border-radius: 50%;
+      border-radius: 50% !important;
+      width: auto !important;
     }
 
       .image.avatar:before {
@@ -168,12 +169,11 @@ papertitle {
       }
 
       .image.avatar img {
-      border-radius: 50%;
-      width: 45%;
-      height: 45%;  /* Add this to match width */
-      padding: 20px;
-      object-fit: cover;  /* Add this to crop the image proportionally */
-      aspect-ratio: 1;  /* Alternative: ensures 1:1 ratio */
+      border-radius: 50% !important;
+      width: 160px !important;
+      height: 160px !important;
+      padding: 0 !important;
+      object-fit: cover;
 }
 
     #header .image.avatar {
