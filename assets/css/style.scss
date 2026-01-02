@@ -3,8 +3,19 @@
 
 @import "minimal-light";
 
-.avatar {
-  border-radius: 6px !important;
+/* Force profile image to NOT be circular/ellipse */
+img {
+  border-radius: 0 !important;
+}
+
+/* If the theme crops the image, keep it natural */
+img[alt="avatar"],
+img.avatar,
+.avatar img,
+.profile img,
+.portrait img {
+  border-radius: 0 !important;
+  object-fit: contain !important;
 }
 
 
