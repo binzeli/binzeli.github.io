@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am a first-year PhD student at Johns Hopkins University, co-advised by [**Gillian Hadfield**](https://gillianhadfield.org) and [**Tianmin Shu**](https://www.tshu.io). I earned my Bachelor of Science in Statistics & Data Science and Cognitive Science from the University of California, Los Angeles in June 2025. 
+Hi there! I am a first-year PhD student in Computer Science at Johns Hopkins University, co-advised by [**Gillian Hadfield**](https://gillianhadfield.org) and [**Tianmin Shu**](https://www.tshu.io). I earned my Bachelor of Science in Statistics & Data Science and Cognitive Science from the University of California, Los Angeles in June 2025. 
 
 Throughout my undergraduate years, I conducted research at the intersection of computational cognitive modeling, probabilistic inference, and visual and analogical reasoning. I was fortunate to be advised by [**Tao Gao**](http://www.stat.ucla.edu/~taogao/Taogao.html) at UCLA and Volkan Ustun at the [**USC Institute for Creative Technologies**](https://ict.usc.edu). I also worked as a research assistant at the [**UCLA Computational Vision and Learning Lab**](https://cvl.psych.ucla.edu). 
 
