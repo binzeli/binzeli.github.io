@@ -1,7 +1,7 @@
 main:
 
   - title: "Towards Scenario Generation: A Multi-Agent Reasoning Framework for Generating Physics Puzzles"
-    authors: "Binze Li<sup>*</sup>, Soham Hans<sup>*</sup>, Volkan Ustun"
+    authors: "Binze Li*, Soham Hans*, Volkan Ustun"
     conference_short: "EMAS 2025"
     conference: "International Workshop on Engineering Multi-Agent Systems at Autonomous Agents and Multiagent Systems (AAMAS) 2025"
     pdf: https://emas.in.tu-clausthal.de/2025/assets/pdfs/emas2025-4.pdf
