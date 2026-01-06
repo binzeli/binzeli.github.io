@@ -13,7 +13,7 @@ Throughout my undergraduate years, I conducted research at the intersection of c
 
 I am interested in **how intelligent agents can coordinate, cooperate, and align their behavior in social environments**, especially when objectives are partially conflicting and rules are not explicitly defined. Human societies rely on shared norms and institutions to sustain cooperation under uncertainty. I am curious about how similar mechanisms can be modeled, inferred, and learned by artificial agents.
 
-My work focuses on **multi-agent alignment through social norms**, studying how agents infer group- and community-level expectations, adapt their behavior as social contexts evolve, and sustain cooperation in dynamic multi-agent settings. I draw on ideas from cognitive science, economics, and computer science to build safe and socially aligned AI.
+My work focuses on multi-agent alignment with implications for AI safety, studying how agents infer group- and community-level expectations, adapt their behavior as social contexts evolve, and sustain cooperation in dynamic multi-agent settings. I draw on ideas from cognitive science, economics, and computer science to build safe and socially aligned AI.
 
 
 ## News
