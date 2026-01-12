@@ -4,16 +4,15 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am a first-year PhD student at Johns Hopkins University, co-advised by [**Gillian Hadfield**](https://gillianhadfield.org) and [**Tianmin Shu**](https://www.tshu.io). I earned my Bachelor of Science in Statistics & Data Science and Cognitive Science from the University of California, Los Angeles in June 2025. 
+Hi there! I am a first-year PhD student in Computer Science at Johns Hopkins University, co-advised by [**Gillian Hadfield**](https://gillianhadfield.org) and [**Tianmin Shu**](https://www.tshu.io). I earned my Bachelor of Science in Statistics & Data Science and Cognitive Science from the University of California, Los Angeles in June 2025. 
 
 Throughout my undergraduate years, I conducted research at the intersection of computational cognitive modeling, probabilistic inference, and visual and analogical reasoning. I was fortunate to be advised by [**Tao Gao**](http://www.stat.ucla.edu/~taogao/Taogao.html) at UCLA and Volkan Ustun at the [**USC Institute for Creative Technologies**](https://ict.usc.edu). I also worked as a research assistant at the [**UCLA Computational Vision and Learning Lab**](https://cvl.psych.ucla.edu). 
 
 
 ## Research Interests
+I am passionate about building **safe, trustworthy, and human-aligned** AI.
 
-I am interested in **how intelligent agents can coordinate, cooperate, and align their behavior in social environments**, especially when objectives are partially conflicting and rules are not explicitly defined. Human societies rely on shared norms and institutions to sustain cooperation under uncertainty. I am curious about how similar mechanisms can be modeled, inferred, and learned by artificial agents.
-
-My work focuses on **multi-agent alignment through social norms**, studying how agents infer group- and community-level expectations, adapt their behavior as social contexts evolve, and sustain cooperation in dynamic multi-agent settings. I draw on ideas from cognitive science, economics, and computer science to design models that support robust coordination among interacting agents.
+My primary interest lies in **how intelligent agents can coordinate, cooperate, and align their behavior in social environments**, especially when objectives are partially conflicting and rules are not explicitly defined. Human societies rely on shared norms and institutions to sustain social equilibrium. I am curious about how similar mechanisms can be modeled, inferred, and learned by artificial agents.
 
 
 ## News
