@@ -10,7 +10,7 @@ Throughout my undergraduate years, I conducted research at the intersection of c
 
 
 ## Research Interests
-I am passionate about building **safe, trustworthy, and human-aligned AI**.
+I am passionate about building **safe, trustworthy, and human-aligned** AI.
 
 My primary interest lies in **how intelligent agents can coordinate, cooperate, and align their behavior in social environments**, especially when objectives are partially conflicting and rules are not explicitly defined. Human societies rely on shared norms and institutions to sustain social equilibrium. I am curious about how similar mechanisms can be modeled, inferred, and learned by artificial agents.
 
