@@ -58,7 +58,7 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 .image.avatar:before { display: none; }
 
-.image.avatar img { border-radius: 50%; width: 200px; height: 200px; padding: 0; object-fit: cover; }
+.image.avatar img { border-radius: 50%; width: 250px; height: 250px; padding: 0; object-fit: cover; }
 
 #header .image.avatar { margin: 0 0 1em 0; width: 8.00em; }
 
