@@ -4,7 +4,7 @@ main:
     authors: "Binze Li*, Soham Hans*, Volkan Ustun"
     conference_short: "EMAS 2025"
     conference: "International Workshop on Engineering Multi-Agent Systems at Autonomous Agents and Multiagent Systems (AAMAS) 2025"
-    pdf: https://emas.in.tu-clausthal.de/2025/assets/pdfs/emas2025-4.pdf
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-032-18011-7_1"
     image : /assets/img//EMAS2025.png
 
   - title: "A Study of Rule Omission in Raven’s Progressive Matrices"
