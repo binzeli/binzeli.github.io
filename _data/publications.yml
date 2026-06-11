@@ -1,14 +1,28 @@
 main:
 
+  - title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
+    authors: "Chuanyang Jin, <strong>Binze Li</strong>, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu"
+    conference: "arXiv preprint"
+    conference_short: "arXiv"
+    pdf: "https://arxiv.org/pdf/2605.20087"
+    page: "https://thoughttrace-project.github.io/"
+
+  - title: "I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation"
+    authors: "Haotian Zong*, <strong>Binze Li</strong>*, Yufei Long, Sinyin Chang, Jialong Wu, Gillian K. Hadfield"
+    conference: "Epistemic Intelligence in Machine Learning Workshop at ICML 2026"
+    conference_short: "EIML 2026"
+    pdf: "https://arxiv.org/pdf/2604.03904"
+    image : /assets/img/EIML2026.png
+
   - title: "Towards Scenario Generation: A Multi-Agent Reasoning Framework for Generating Physics Puzzles"
-    authors: "Binze Li*, Soham Hans*, Volkan Ustun"
+    authors: "<strong>Binze Li</strong>*, Soham Hans*, Volkan Ustun"
     conference_short: "EMAS 2025"
     conference: "International Workshop on Engineering Multi-Agent Systems at Autonomous Agents and Multiagent Systems (AAMAS) 2025"
     pdf: "https://link.springer.com/chapter/10.1007/978-3-032-18011-7_1"
     image : /assets/img//EMAS2025.png
 
   - title: "A Study of Rule Omission in Raven’s Progressive Matrices"
-    authors: "Binze Li"
+    authors: "<strong>Binze Li</strong>"
     conference: "arXiv preprint"
     conference_short: "arXiv"
     pdf: "https://arxiv.org/pdf/2510.03127"
