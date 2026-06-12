@@ -6,6 +6,7 @@ main:
     conference_short: "arXiv"
     pdf: "https://arxiv.org/pdf/2605.20087"
     page: "https://thoughttrace-project.github.io/"
+    image: /assets/img/thought_trace.png
 
   - title: "I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation"
     authors: "Haotian Zong*, <strong>Binze Li</strong>*, Yufei Long, Sinyin Chang, Jialong Wu, Gillian K. Hadfield"
