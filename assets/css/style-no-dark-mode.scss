@@ -2,3 +2,69 @@
 ---
 
 @import "minimal-light-no-dark-mode";
+
+// ---------- Custom polish ----------
+$accent: #002D72;   // JHU navy
+$link: #1a6fb5;
+$rule: #e6e9ef;
+
+a { color: $link; transition: color .15s ease; }
+a:hover { color: $accent; }
+
+header h1 { color: $accent; font-weight: 600; letter-spacing: .3px; margin-top: 1.2rem; margin-bottom: 10px; }
+
+section { line-height: 1.65; }
+section h2 {
+  color: $accent;
+  font-weight: 600;
+  font-size: 150%;
+  margin: 2.4rem 0 1rem;
+  padding-bottom: 8px;
+  border-bottom: 1px solid $rule;
+}
+section > h2:first-child { margin-top: 0; }
+section ul { padding-left: 1.2em; }
+section ul li { margin-bottom: .45rem; }
+section ul li > strong:first-child { color: $accent; font-weight: 600; }
+
+// Publications
+.pub-note { color: #8a94a3; font-size: 13px; margin: -6px 0 0; }
+.publications { margin-top: 1rem !important; }
+.publications ol.bibliography li {
+  padding: 14px 10px;
+  margin-bottom: 10px !important;
+  border-radius: 10px;
+  transition: background-color .2s ease;
+}
+.publications ol.bibliography li:hover { background-color: #f5f8fc; }
+.publications ol.bibliography li .title { margin-bottom: 3px; }
+.publications ol.bibliography li .title a { color: #1f2d3d; }
+.publications ol.bibliography li .title a:hover { color: $accent; }
+.publications ol.bibliography li .author { color: #555; font-size: 15px; }
+.publications ol.bibliography li .periodical { color: #555; font-size: 15px; margin-bottom: 6px; }
+.publications ol.bibliography li .links a.btn {
+  color: $accent !important;
+  border: 1px solid #c9d3e0 !important;
+  border-radius: 999px;
+  padding: 1px 10px !important;
+  margin-right: 4px;
+  transition: all .15s ease;
+}
+.publications ol.bibliography li .links a.btn:hover {
+  background-color: $accent;
+  border-color: $accent !important;
+  color: #fff !important;
+}
+.award-badge {
+  display: inline-block;
+  padding: 1px 10px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #8a5a00;
+  background-color: #fff6df;
+  border: 1px solid #f1cf73;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+.award-badge i { color: #d99a00; margin-right: 3px; }
+

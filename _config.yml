@@ -6,13 +6,13 @@ email: bli91 (at) jh.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Binze Li, Johns Hopkins University, normative competence, multi-agent systems, AI alignment, social and normative reasoning, human-AI collaboration, human-robot collaboration, social learning and adaptation
+description: Binze Li is a Ph.D. student in Computer Science at Johns Hopkins University working on safe, trustworthy, and human-aligned AI.
+canonical: https://binzeli.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-# google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?hl=en&user=L67kkPEAAAAJ
 # cv_link: assets/files/curriculum_vitae.pdf
 # github_link: https://github.com/
 linkedin: https://www.linkedin.com/in/binze-li-827939180/
