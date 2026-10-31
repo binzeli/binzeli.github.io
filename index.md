@@ -17,6 +17,7 @@ My primary interest lies in **how intelligent agents can align their values and 
 
 ## News
 
+- **[Jul. 2026]** *ThoughtTrace* received the **Best Paper Award** at the RLxF Workshop at ICML 2026!
 - **[Feb. 2025]** Awarded a talk presentation at the *Society for Personality and Social Psychology* Health Preconference for *“Uncovering Individual-Level Treatment Effects in Value Affirmation Using Machine Learning Techniques.”*
 
 

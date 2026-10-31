@@ -2,11 +2,12 @@ main:
 
   - title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
     authors: "Chuanyang Jin, <strong>Binze Li</strong>, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu"
-    conference: "arXiv preprint"
-    conference_short: "arXiv"
+    conference: "RLxF Workshop at ICML 2026"
+    conference_short: "RLxF 2026"
     pdf: "https://arxiv.org/pdf/2605.20087"
     page: "https://thoughttrace-project.github.io/"
     image: /assets/img/thought_trace.png
+    notes: "Best Paper Award"
 
   - title: "I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation"
     authors: "Haotian Zong*, <strong>Binze Li</strong>*, Yufei Long, Sinyin Chang, Jialong Wu, Gillian K. Hadfield"
@@ -21,12 +22,3 @@ main:
     conference: "International Workshop on Engineering Multi-Agent Systems at Autonomous Agents and Multiagent Systems (AAMAS) 2025"
     pdf: "https://link.springer.com/chapter/10.1007/978-3-032-18011-7_1"
     image : /assets/img//EMAS2025.png
-
-  - title: "A Study of Rule Omission in Raven’s Progressive Matrices"
-    authors: "<strong>Binze Li</strong>"
-    conference: "arXiv preprint"
-    conference_short: "arXiv"
-    pdf: "https://arxiv.org/pdf/2510.03127"
-    image : /assets/img/raven2025.png
-
-    
