@@ -9,7 +9,7 @@ main:
     image: /assets/img/thought_trace.png
     notes: "Best Paper Award"
 
-  - title: "I-CALM: Incentivizing Confidence-Aware Abstention for LLM Hallucination Mitigation"
+  - title: "I-CALM: Incentivizing Confidence-Aware Abstention for LLM Selective Answering"
     authors: "Haotian Zong*, <strong>Binze Li</strong>*, Yufei Long, Sinyin Chang, Jialong Wu, Gillian K. Hadfield"
     conference: "Epistemic Intelligence in Machine Learning Workshop at ICML 2026"
     conference_short: "EIML 2026"
