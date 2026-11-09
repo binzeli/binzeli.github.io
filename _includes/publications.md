@@ -1,5 +1,5 @@
 <h2 id="publications">Publications</h2>
-<p class="pub-note">* denotes equal contribution</p>
+<p class="pub-note">* denotes equal contribution, † denotes equal advising</p>
 
 <div class="publications">
 <ol class="bibliography">

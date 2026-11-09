@@ -1,5 +1,14 @@
 main:
 
+  - title: "NormGym: Evaluating Normative Competence through Social Interaction"
+    authors: "<strong>Binze Li</strong>, Zihuan Zhang, Seokhyun Baek, Gillian K. Hadfield†, Tianmin Shu†"
+    conference: "arXiv preprint arXiv:2611.08613"
+    conference_short: "arXiv 2026"
+    pdf: "https://arxiv.org/pdf/2611.08613"
+    code: "https://github.com/binzeli/normGym/tree/main"
+    page: "https://normgym.github.io/normgym-page/"
+    image: /assets/img/normgym.png
+
   - title: "ThoughtTrace: Understanding User Thoughts in Real-World LLM Interactions"
     authors: "Chuanyang Jin, <strong>Binze Li</strong>, Haopeng Xie, Cathy Mengying Fang, Tianjian Li, Shayne Longpre, Hongxiang Gu, Maximillian Chen, Tianmin Shu"
     conference: "RLxF Workshop at ICML 2026"
