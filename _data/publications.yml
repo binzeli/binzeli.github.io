@@ -5,7 +5,6 @@ main:
     conference: "arXiv preprint arXiv:2611.08613"
     conference_short: "arXiv 2026"
     pdf: "https://arxiv.org/pdf/2611.08613"
-    code: "https://github.com/binzeli/normGym/tree/main"
     page: "https://normgym.github.io/normgym-page/"
     image: /assets/img/normgym.png
 
